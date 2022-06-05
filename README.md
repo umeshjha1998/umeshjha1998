@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=umeshjha1998&color=blueviolet)
 
 
-- 🔭 I’m an Java Developer,a machine learning enthusiast 
+- 🔭 I’m an Java Developer,a blockchain enthusiast 
      and a back-end developer
 - 🌱 I’m currently learning Cloud Computing
 - 🤔 I’m looking for help with Artifical Intelligence
